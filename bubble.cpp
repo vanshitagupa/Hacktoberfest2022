@@ -36,3 +36,5 @@ int main()
     B_S(V, n);
     display(V, n);
 }
+
+//compl: o(n2)
