@@ -4,7 +4,7 @@ import math
 
 # calc class 
 class calc: 
-
+"""all functions of calc"""
 	def getandreplace(self): 
 
 		"""replace x with * and ÷ with /"""
