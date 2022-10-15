@@ -37,4 +37,4 @@ int main()
     display(V, n);
 }
 
-//compl: o(n2)
+//complexity: o(n2)
